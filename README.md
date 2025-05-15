@@ -8,5 +8,5 @@ Durante la ejecucion del código se mostrará por pantalla la imagen capturada p
 
 **C++**
 
--El archivo *det_movimiento.ipynb* escrito en lenguaje C++ en el que también será necesario seleccionar la cámara a utilizar para realizar la detcción de movimiento. 
+-El archivo *det_movimiento.cpp* escrito en lenguaje C++ en el que también será necesario seleccionar la cámara a utilizar para realizar la detcción de movimiento. 
 Durante la ejecucion del código se mostrará por pantalla la imagen capturada por la cámara seleccionada y con un recuadro de color rojo se mostrara el movimiento.
